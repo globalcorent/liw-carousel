@@ -1,0 +1,15 @@
+/* Lightweight pastel theme (change in upsells!) */
+.liw-carousel {
+  width: 100%;
+  max-width: 480px;
+  border-radius: 1rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,.08);
+  overflow: hidden;
+  font-family: system-ui, sans-serif;
+}
+.liw-slide {
+  padding: 1.5rem;
+  background: linear-gradient(135deg,#fdfbfb 0%,#ebedee 100%);
+}
+.liw-quote { font-size: 1rem; line-height: 1.6; margin: 0 0 .75rem; }
+.liw-author { font-weight: 600; font-size: .9rem; color:#444; }
